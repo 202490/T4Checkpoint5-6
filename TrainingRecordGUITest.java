@@ -3,6 +3,7 @@
  * It is not finished as we're not expecting you to implement GUI testing
  * However, you're welcome to use this starter template and extend it and add
  * test for public methods you implement in TrainingRecordGUI.java
+ *sample TrainingRecordGUI for trainess
  */
 package com.stir.cscu9t4practical1;
 
